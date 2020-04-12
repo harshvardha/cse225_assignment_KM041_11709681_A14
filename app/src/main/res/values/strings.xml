@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">cse225assignment</string>
+
+    <!--  Slide 1 Title and Description-->
+    <string name="slide_1_title">Bus Tickets</string>
+    <string name="slide_1_description">Explore the most attractive deal in bus ticket booking</string>
+
+    <!-- Slide 2 Title and Description-->
+    <string name="slide_2_title">Flight Tickets</string>
+    <string name="slide_2_description">Explore the most attractive deal in flight ticket booking</string>
+
+    <!-- Slide 3 Title and Description-->
+    <string name="slide_3_title">Train Tickets</string>
+    <string name="slide_3_description">Explore the most attractive deal in train ticket booking</string>
+
+    <!-- Slide 4 Title and Description-->
+    <string name="slide_4_title">Movie Tickets</string>
+    <string name="slide_4_description">Explore the most attractive deal in movie ticket booking</string>
+
+    <string name="my_preference">com.abc.com.MyPref</string>
+    <string name="my_preference_key">com.abc.com.MyPrefKey</string>
+</resources>
